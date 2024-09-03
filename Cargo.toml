@@ -15,7 +15,7 @@ documentation = "https://docs.rs/crate/pythonize/"
 serde = { version = "1.0", default-features = false, features = ["std"] }
 
 [dependencies.pyo3]
-git = "https://github.com/liammcinroy/pyo3"
+git = "https://github.com/durable-code/pyo3"
 branch = "nofreeze"
 default-features = false
 
